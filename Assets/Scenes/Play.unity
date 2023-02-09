@@ -442,7 +442,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2465181964498860012, guid: 5eb90d451cc9b9847b0d59c7905d60af, type: 3}
   m_PrefabInstance: {fileID: 7443501448585725795}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &301938646
+--- !u!114 &301938651
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _movePower: 6
-  _jumpPower: 5
+  _jumpPower: 6
 --- !u!1001 &467944805
 PrefabInstance:
   m_ObjectHideFlags: 0
