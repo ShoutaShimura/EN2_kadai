@@ -7,7 +7,7 @@ public class SwichController : MonoBehaviour
 {
 
     [SerializeField] UnityEvent _onEnter = default;
-    /// <summary>ˆê“x“®ì‚µ‚½‚©‚Ç‚¤‚©</summary>
+    /// ˆê“x“®ì‚µ‚½‚©
     bool _isFinished = false;
 
     void OnTriggerEnter(Collider other)
